@@ -33,7 +33,7 @@ GOTO END
 
 :UNLOCKSCREEN
 	adb shell input keyevent 20
-	adb shell input text trolltroll
+	adb shell input text PUTYOURPASSWORKDHERE
 	adb shell input keyevent 66
 
 :END
