@@ -6,7 +6,7 @@ If you need to securize your Android device with password, lock and unlock it fr
 
 Here you can see how AndroidLockUnlock will make your life easier.
 
-<img src="gif/shortcut.gif">
+<img src="gif/IMG_0704.gif">
 
 ##How to prepare
 First you need to have added adb.exe to the path or place the bat file on the same location.
@@ -35,7 +35,7 @@ You can add a file shortcut.
 6. On Shortcut tab, replace "lockunlock.exe" by "lockunlock.bat toggle" on Target
 7. Save changes
 
-<img src="gif/shortcut.gif">
+<img src="gif/IMG_0703.gif">
 
 ##Invoke it when PC lock or unlock
 
